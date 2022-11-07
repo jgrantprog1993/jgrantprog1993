@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Jason 👋
 
 
 - 🔭 I’m currently working on Android App Dev.
