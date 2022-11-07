@@ -1,10 +1,10 @@
-# Hi there 👋, My name is Jason Grant
 
-<h3 align="left">Connect with me:</h3> <p>Email - jason.grant@umail.ucc.ie </p>
+<h3 align="left">Connect with me:<a href="https://linkedin.com/in/jason-grant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason-grant" height="30" width="40" /></a> </h3> <p>Email - jason.grant@umail.ucc.ie </p>
 <p align="left">
-<a href="https://linkedin.com/in/jason-grant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason-grant" height="30" width="40" /></a> 
+
 
 ## 💻 Skills
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgrantprog1993&show_icons=true&theme=dark&title_color=f2eded&text_color=f3ecec&locale=en&layout=compact" alt="jgrantprog1993" /></p>
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
@@ -29,12 +29,7 @@
   <img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" style="margin-bottom: 4px;" height="30px">
 </p>
 <p>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px"><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" style="margin-bottom: 4px;" height="30px"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px"></p></p>
-
-## 📊 Github Status
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgrantprog1993&show_icons=true&theme=dark&title_color=f2eded&text_color=f3ecec&locale=en&layout=compact" alt="jgrantprog1993" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jgrantprog1993&show_icons=true&theme=dark&locale=en" alt="jgrantprog1993" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jgrantprog1993&theme=dark" alt="jgrantprog1993" /></p>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px"><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" style="margin-bottom: 4px;" height="30px"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px"></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jgrantprog1993&show_icons=true&theme=dark&locale=en" alt="jgrantprog1993" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jgrantprog1993&theme=dark" alt="jgrantprog1993" /></p>
