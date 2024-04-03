@@ -30,4 +30,5 @@
 </p>
   
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jgrantprog1993&show_icons=true&theme=dark&locale=en" alt="jgrantprog1993" />
+<img align="center" src="https://myreadme.vercel.app/api/embed/jgrantprog1993?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="jgrantprog1993" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jgrantprog1993&theme=dark" alt="jgrantprog1993" /></p>
