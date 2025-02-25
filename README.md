@@ -14,7 +14,9 @@
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/mySQL-FFA500?style=for-the-badge&logo=mySQL&logoColor=blue" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" style="margin-bottom: 4px;" height="30px">
- <img src="https://img.shields.io/badge/PHP-B19CD9?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/PHP-B19CD9?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=red" style="margin-bottom: 4px;" height="30px">
+
   
 <p><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/bulma-cyan?style=for-the-badge&logo=bulma&logoColor=white" style="margin-bottom: 4px;" height="30px">
